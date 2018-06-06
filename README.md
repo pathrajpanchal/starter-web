@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 again
 
 
-## Purpose
+
+adding aline for rebasing example.## Purpose
 
 Sample website with plenty of files for demos
 
