@@ -16,3 +16,5 @@ thanks to all my teacher and proffesrs<name>
 
     HTML5, CSS3
     jQuery, Modernizr
+
+more value to technology area
