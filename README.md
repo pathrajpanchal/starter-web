@@ -18,3 +18,4 @@ what the hell is this?
 there is a warning
 ##
 how to contribute etc etc
+#its a copyright here....
