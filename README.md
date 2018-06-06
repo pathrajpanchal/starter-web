@@ -14,3 +14,5 @@ this is a simple website project for ldjlda
 
 what the hell is this?
 there is a warning
+##
+how to contribute etc etc
